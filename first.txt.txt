@@ -1,0 +1,11 @@
+git 설치 -> 저장경로 상단바 cmd 실행 후 git init 로컬 저장파일 생성
+
+->git remote add origin "github 주소" 원격 저장소 추가
+
+->git add 새로운 파일을 추가
+
+->git commit 로컬 저장파일 저장
+
+->git push 원격 저장소에 파일 올리기
+
+->git pull 원격 저장소에서 파일 내려받기
